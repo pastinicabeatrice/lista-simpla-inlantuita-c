@@ -1,0 +1,6 @@
+10 Agentia_Centru 125000.50 Bd_Unirii_12 6200
+13 Agentia_Nord 48000.00 Str_Lalelelor_4 850
+22 Agentia_Vest 87000.75 Calea_Vestului_101 3100
+31 Agentia_Gara 15000.20 Piata_Garii_2 420
+44 Agentia_Parc 63000.00 Aleea_Parcului_7 2700
+56 Agentia_Sud 99000.40 Sos_Sudului_88 5400
